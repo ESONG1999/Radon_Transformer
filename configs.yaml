@@ -16,7 +16,7 @@ dir:
 
 
 train:
-  GPU_num: 2
+  GPU_num: 1
   load: True
   num_steps: 450000
   eval_every: 15000
